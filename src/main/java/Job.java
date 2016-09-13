@@ -1,5 +1,5 @@
 public class Job {
- String mPostion;
+ String mPosition;
  String mCompany;
  String mLocation;
  String mDescription;
@@ -7,7 +7,7 @@ public class Job {
  String mEnd;
 
 public Job(String position, String company, String location, String description, String start, String end) {
-  mPostion = position;
+  mPosition = position;
   mCompany = company;
   mLocation = location;
   mDescription = description;
